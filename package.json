@@ -4,7 +4,7 @@
   "description": "Predict the nationality of a name",
   "main": "server.js",
   "scripts": {
-    "test": "jest - -coverage",
+    "test": "jest --coverage",
     "start": "nodemon server"
   },
   "keywords": [
